@@ -44,7 +44,7 @@ function Index() {
           Build, preview and download stunning HD point tables for PUBG, BGMI, Free Fire and any battle-royale tournament — in under a minute.
         </p>
         <div className="mt-10 flex items-center justify-center gap-4">
-          <Link to="/auth"><Button size="lg" className="neon-border h-12 px-8 text-base">Start free — 5 credits</Button></Link>
+          <Link to="/auth"><Button size="lg" className="neon-border h-12 px-8 text-base">Start free — 2 credits</Button></Link>
           <Link to="/auth"><Button size="lg" variant="outline" className="h-12 px-8 text-base">See templates</Button></Link>
         </div>
 
